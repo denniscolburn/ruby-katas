@@ -16,3 +16,21 @@ API tests are located at `./library/spec/api/*_spec.rb`
 
 ### Performance Tests
 
+### Wireframes
+
+#### index.html
+
+![Main page wireframe](index_wireframe.png)
+
+#### new.html
+
+![New page wireframe](new_wireframe.png)
+
+#### show.html
+
+![Show page wireframe](show_wireframe.png)
+
+#### edit.html
+
+![Edit page wireframe](edit_wireframe.png)
+
